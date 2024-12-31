@@ -6,7 +6,11 @@ body{
     font-family: "Lato", serif;
 
 }
-
+footer{
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
 
 /*-----------------------
 || login page
