@@ -21,10 +21,6 @@ footer{
     background: #34bd56;
 }
 
-.card{
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 8px 0 rgba(0, 0, 0, 0.19);
-}
-
 #message{
     display: none;
     animation: message 0.87s linear;
